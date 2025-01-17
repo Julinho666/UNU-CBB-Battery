@@ -25,7 +25,7 @@
 | A5 | RED | SCL(pullup 4K7 to 3V3) |
 | 3V3 |			|Pullups|  
 
-After Flashing the Arduino open terminal (115000Baud)
+After Uüloading the sketch   open terminal (115000Baud)
 
 example: SOC: 49% VFSOC: 49%, Current: -0.52mA, Charging: No, Voltage: 3.70V
 
