@@ -30,6 +30,7 @@ After Uüloading the sketch   open terminal (115000Baud)
 example: SOC: 49% VFSOC: 49%, Current: -0.52mA, Charging: No, Voltage: 3.70V
 
 SOC is the calculated SOC by counting the current(m5 algorithm)
+
 VFSOC ist the calculated SOC by Voltage
 
 ## License
