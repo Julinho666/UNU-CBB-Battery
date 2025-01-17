@@ -1,5 +1,10 @@
 # UNU-CBB-Battery
 
+# Hardware description
+The CBB battery is a power bank that can be charged using a voltage of 20 - 60 V. 
+The battery delivers 5 V at the output with a maximum current of 2.5 A. 
+There is a MAX17301 on the board, which can be used to check the battery level.
+
 ## Connections UNU-CBB-Battery
 ![Belegung CBB1](https://github.com/user-attachments/assets/ac5430ca-d72d-4de4-86c8-051947f3a087)
 
