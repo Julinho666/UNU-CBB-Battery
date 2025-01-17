@@ -7,7 +7,11 @@ Read out a UNU Pro Scooter CBB Battery
 Connections Arduino Nano
 
 Arduino  color    CBB
+
 GND      GREEN    GND
+
 A4       WHITE    SDA(pullup 4K7 to 3V3)
+
 A5       RED      SCL(pullup 4K7 to 3V3)
+
 3V3      Pullups    
