@@ -1,4 +1,4 @@
-# UNU-CBB-Battery
+# UNU-CBB-Battery (MAX17301)
 
 # Hardware description
 The CBB battery is a power bank that can be charged using a voltage of 20 - 60 V. 
