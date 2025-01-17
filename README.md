@@ -32,5 +32,7 @@ example: SOC: 49% VFSOC: 49%, Current: -0.52mA, Charging: No, Voltage: 3.70V
 SOC is the calculated SOC by counting the current(m5 algorithm)
 VFSOC ist the calculated SOC by Voltage
 
+
 ## License
-This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
