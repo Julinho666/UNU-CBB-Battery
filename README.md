@@ -42,7 +42,7 @@ VFSOC ist the calculated SOC by Voltage
 
 The PCB contains an SMD fuse responsible for charging. 
 If this fuse fails, the charging circuit will no longer function, but the CBB will still be recognized by the MDB. 
-A 2A slow-blow fuse is currently installed; it is recommended to replace it with a 3A slow-blow fuse.
+A 2A slow-blow fuse is currently installed; it is recommended to replace it with a 3A slow-blow fuse (Size 1206 63V).
 ![cbb_fuse](https://github.com/user-attachments/assets/a6803dd4-b04a-48ec-adb8-78d67661ac6b)
 
 
