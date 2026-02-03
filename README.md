@@ -13,12 +13,15 @@ There is a MAX17301 on the board, which can be used to check the battery level.
 |------|-------|------|
 | GND | GREEN | Common Ground |
 | CHARGE +|  BLACK |Input 20-60V 10W |
-| ENABLE | YELLOW | Connect to GND--> CBB OFF |
+|WK | YELLOW | Connect to GND--> CBB OFF |
 | +5V out | BLUE | 5V Out max 2,5A |
 | SCL |	RED		|IC2 SCL|  
 | SDA|	WHITE |IC2 SDA|  
 
+The voltage at the WK pin can be used to estimate the voltage of the internal battery. 
+Multiplying the voltage at WK by a factor of 1.3 gives an approximate battery voltage.
 
+![Ubat vs Uwk](https://github.com/user-attachments/assets/ff515ccf-9e79-4eb5-a4f8-50e58039eb24)
 
 
 ## Connect CBB to Arduino
