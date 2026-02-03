@@ -21,7 +21,8 @@ There is a MAX17301 on the board, which can be used to check the battery level.
 The voltage at the WK pin can be used to estimate the voltage of the internal battery. 
 Multiplying the voltage at WK by a factor of 1.3 gives an approximate battery voltage.
 
-![Ubat vs Uwk](https://github.com/user-attachments/assets/ff515ccf-9e79-4eb5-a4f8-50e58039eb24)
+![Ubat vs Uwk](https://github.com/user-attachments/assets/64eb9e2a-1bf6-4ac9-afdd-22f6fc145ceb)
+
 
 
 ## Connect CBB to Arduino
